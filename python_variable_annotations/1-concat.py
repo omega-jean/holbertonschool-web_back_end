@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''concact'''
+'''concact is concact'''
 
 def concat(str1: str, str2: str) -> str:
     '''concact'''
