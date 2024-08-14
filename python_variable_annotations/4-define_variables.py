@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 '''idk'''
 
+
 '''idk'''
 a: int = 1
 pi: float = 3.14
