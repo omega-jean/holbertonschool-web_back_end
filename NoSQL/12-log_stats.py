@@ -2,7 +2,6 @@
 """ 12-main """
 from pymongo import MongoClient
 
-
 def main():
     client = MongoClient()
     db = client.logs
