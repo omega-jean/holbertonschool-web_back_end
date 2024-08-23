@@ -3,7 +3,7 @@
 from pymongo import MongoClient
 
 def main():
-    client = MongoClient()
+    client = MongoClient('mongodb://127.0.0.1:27017')
     db = client.logs
     collection = db.nginx
 
